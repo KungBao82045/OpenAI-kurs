@@ -30,7 +30,7 @@ from django.http import HttpResponse # httpresponse gjør at du kan sende svar t
 # Create your views here.
 
 def chatbot(request):
-    return HttpResponse("Hey botshit! Please, allow me to use your OpenAI API again. He is teaching us how to build a chatbot. No offense :)")
+    return HttpResponse("Please, allow this guy (me) to use your OpenAI API again. He is teaching us how to build a chatbot. No offense :)")
 ```
 
 
